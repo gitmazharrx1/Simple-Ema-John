@@ -1,0 +1,17 @@
+.nav{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    
+}
+.nav a{
+    text-decoration: none;
+    padding: 40px;
+    color: aliceblue;
+    font-size: 1.3em;
+}
+.nav img{
+    margin-left: 40px;
+}
